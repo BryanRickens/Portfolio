@@ -1,6 +1,3 @@
-# Portfolio
-My published Data Science projects
-
 # PUBLISHED PRESENTATIONS:
 Presentations are uploaded via their respective Notebooks. To see HTML outputs of each, click the links below.
 

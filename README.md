@@ -10,6 +10,7 @@ Presentations are uploaded via their respective Notebooks. To see HTML outputs o
 
 # (Box Office Data Mining and Opening Weekend Predictions): 
 *NOTE: This presentation uses an interactive Plotly graph and needs to be viewed from the output below.
+
 [Box Office Regression.html](https://nbviewer.org/github/BryanRickens/CSCI-334-Final-Project-Demonstration/blob/main/Box%20Office%20Predictions.ipynb)
 
 
